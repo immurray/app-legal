@@ -34,3 +34,4 @@ index.html                  # list of all apps — add a section per app
 | App | Support | Privacy | Terms |
 |---|---|---|---|
 | SubBill | [support](https://immurray.github.io/app-legal/subbill/support.html) | [privacy](https://immurray.github.io/app-legal/subbill/privacy-policy.html) | [terms](https://immurray.github.io/app-legal/subbill/terms-of-service.html) |
+| Wrenchday | [support](https://immurray.github.io/app-legal/wrenchday/support.html) | [privacy](https://immurray.github.io/app-legal/wrenchday/privacy-policy.html) | [terms](https://immurray.github.io/app-legal/wrenchday/terms-of-service.html) |
